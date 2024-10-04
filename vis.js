@@ -63,3 +63,4 @@ svg.addEventListener('mousemove', (event) => {
     ellipse.setAttribute('rx', newRx); 
     ellipse2.setAttribute('rx', newRx); 
   });
+
